@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534555285 source:c:\users\jorge filipe\arquivos de programação\c\geradordecpf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<time.h>
+
