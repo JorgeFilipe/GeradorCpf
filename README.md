@@ -1,5 +1,3 @@
 # GeradorCpfValido
 
-O Atual "Trabalho" é puramente acadêmico, e espero ajudar no quer que esteja procurando...
-
-Do seu amigo de sempre Jorge Filipe.
+O Atual "Trabalho" é puramente acadêmico, e espero ajudar no que quer, que esteja procurando...
