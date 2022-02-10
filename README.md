@@ -6,7 +6,7 @@ Ou seja, o fato de um número de CPF ser autenticado pelos seus dígitos verific
 <br><br>
 Origem do CPF
 O terceiro dígito da direita para a esquerda identifica a unidade federativa na qual a pessoa foi registrada, observando o dígito final antes do traço pode-se descobrir a origem da pessoa. Veja o código para cada Estado:
-
+<br>
 No exemplo CPF nº 000.000.00<b>6</b>-00
 
 0 - Rio Grande do Sul
